@@ -1,0 +1,21 @@
+
+
+.top-p {
+    color: brown;
+}
+.top-div {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgba(184, 238, 121, 0.815);
+    padding-right: 230px;
+    padding-left: 10px;
+    background-color:rgba(235, 222, 113, 0.897);
+}
+h1 {
+    font-size: 40px;
+    margin-left: 30px;
+}
+body {
+    background-color:rgb(234, 191, 238)
+}
